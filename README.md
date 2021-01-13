@@ -1,5 +1,5 @@
 # Introduction to Google BigQuery
-This file contains text you can copy and paste for the examples in Cloud Academy's _Managing Your Google Cloud Infrastructure_ course.  
+This file contains text you can copy and paste for the examples in Cloud Academy's _Introduction to Google BigQuery_ course.  
 
 ### Introduction
 [Free GCP Trial](https://cloud.google.com/free) 
