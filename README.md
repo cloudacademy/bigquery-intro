@@ -20,8 +20,8 @@ ORDER BY number DESC LIMIT 10
 ```
 
 ### Loading Data
-[Baby names data](http://www.ssa.gov/OACT/babynames/names.zip)  
-[Jeopardy data](http://datascienceplus.com/wp-content/uploads/2015/08/JEOPARDY_CSV.csv)  
+[Baby names data](https://www.ssa.gov/OACT/babynames/names.zip)  
+[Jeopardy data](https://datascienceplus.com/wp-content/uploads/2015/08/JEOPARDY_CSV.csv)  
 [Google Cloud SDK installation instructions](https://cloud.google.com/sdk/docs/install)
 ```
 bq mk public
