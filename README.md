@@ -1,9 +1,6 @@
 # Introduction to Google BigQuery
 This file contains text you can copy and paste for the examples in Cloud Academy's _Introduction to Google BigQuery_ course.  
 
-### Introduction
-[Free GCP Trial](https://cloud.google.com/free) 
-
 ### Running a Query
 ```
 SELECT *
@@ -28,9 +25,6 @@ bq mk public
 bq load --autodetect public.jeopardy JEOPARDY_CSV.csv
 ```
 
-### Streaming Data
-[BigQuery API documentation](https://cloud.google.com/bigquery/docs/reference/rest/v2/tabledata/insertAll)  
-
 ### Exporting Data
 ```
 bq extract
@@ -39,6 +33,6 @@ bq extract
 gs://ca-example/games*.csv.gz
 ```
 
-# Summary
+# Conclusion
 [Bigquery documentation](https://cloud.google.com/bigquery/docs)  
 support@cloudacademy.com  
