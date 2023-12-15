@@ -33,6 +33,6 @@ bq extract
 gs://ca-example/games*.csv.gz
 ```
 
-# Conclusion
-[Bigquery documentation](https://cloud.google.com/bigquery/docs)  
+### Conclusion
+[BigQuery documentation](https://cloud.google.com/bigquery/docs)  
 support@cloudacademy.com  
